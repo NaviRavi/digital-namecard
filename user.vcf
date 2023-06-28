@@ -4,11 +4,11 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Ravi;Navi;;;
 FN: Navi  Ravi 
 ORG:Tech;
-TITLE:Programmer\nProducts Team, Data Science Division
+TITLE:Programmer\nProducts Team,NR Data Science Division
 EMAIL;type=INTERNET;type=WORK;type=pref:profiletest@gmail.com
-TEL;type=WORK;type=VOICE:+1 650 260 0000
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+TEL;type=WORK;type=VOICE:+1 650 253 0000
+item1.ADR;type=WORK;type=pref:;;1600 Amphitheater Parkway \nMountain View\, CA;;;94043;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:about.Google
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
